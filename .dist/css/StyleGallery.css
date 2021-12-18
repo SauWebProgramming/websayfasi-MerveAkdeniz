@@ -1,0 +1,11 @@
+.navbar-brand {
+    font-family: 'Audiowide', cursive;
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+.navbar-nav {
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(98, 9, 241);
+    font-size: 20px;
+}
